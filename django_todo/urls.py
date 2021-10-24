@@ -17,9 +17,9 @@ from django.contrib import admin
 from django.urls import path
 from todo import views
 
-"""
-# from todo.views import get_todo_list, add_item, edit_item
-# instead of listing out the individual views, just import views, then k#just add views. in from of all in the patterns path
+
+"""from todo.views import get_todo_list, add_item, edit_item
+instead of listing out the individual views, just import views, then k#just add views. in from of all in the patterns path
 """
 
 urlpatterns = [
