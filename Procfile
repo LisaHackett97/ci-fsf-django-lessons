@@ -1,1 +1,1 @@
-web: gunicorn django_fsftodo.wsgi:application
+web: gunicorn czk8780-django-fsftodo-app.wsgi:application
